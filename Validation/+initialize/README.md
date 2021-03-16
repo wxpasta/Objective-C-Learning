@@ -45,7 +45,9 @@ objc-runtime-new.mm
 - 如果分类实现了+initialize，就覆盖类本身的+initialize调用
 
 
+
 ## 面试题
+
 #### Q：load、initialize方法的区别什么？
 1.调用方式
 1> load是根据函数地址直接调用
